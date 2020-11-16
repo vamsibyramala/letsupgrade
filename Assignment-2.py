@@ -47,21 +47,10 @@ for i in range(1, x):
 print(d)
 
 
-# In[19]:
-
-
-#question 4
-import math
-x = 0
-y = 0
-n = int(input())
-for i in range(n):
-    
-
-
 # In[24]:
 
 
+#question-4
 import math
 x, y = 0, 0
 while True:
